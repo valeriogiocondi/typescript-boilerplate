@@ -7,8 +7,7 @@ A Beautiful Typescript Boilerplate
 
 ```
 npm i;
-npm run build:dev;
-npm run dev;
+./start.sh;
 ```
 
 
