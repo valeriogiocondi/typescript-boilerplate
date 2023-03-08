@@ -7,6 +7,7 @@ A Beautiful Typescript Boilerplate
 
 ```
 npm i;
+sudo chmod 755 start.sh;
 ./start.sh;
 ```
 
