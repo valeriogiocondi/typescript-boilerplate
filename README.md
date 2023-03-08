@@ -6,6 +6,7 @@ A Beautiful Typescript Boilerplate
 ## How it starts
 
 ```
+npm i;
 npm run build:dev;
 npm run dev;
 ```
